@@ -1,0 +1,14 @@
+{
+  "resourceName": "storagefornotes",
+  "policyUUID": "941963d5",
+  "bucketName": "reactcicdawsamplifyb12d7b9caf274be8903441b5161b",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

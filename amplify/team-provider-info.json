@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "reactcicdawsamplify72383656": {}
+      },
+      "api": {
+        "reactcicdawsamplify": {}
+      },
+      "storage": {
+        "storagefornotes": {}
       }
     }
   }
